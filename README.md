@@ -19,11 +19,7 @@
 >  - React / React Native (JS/TS)
 >  - Net Core Asp (C#)
 >  - FastAPI (Python)
-\
-\
-\
-\
-\
+
 <pre>
 Nothing can be quite so helpful as a well-placed comment.
 Nothing can clutter up a module more than frivolous dogmatic comments.
