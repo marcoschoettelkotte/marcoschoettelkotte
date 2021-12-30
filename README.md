@@ -19,10 +19,12 @@
 >  - React / React Native (JS/TS)
 >  - Net Core Asp (C#)
 >  - FastAPI (Python)
-
-
-
-> Nothing can be quite so helpful as a well-placed comment.
-> Nothing can clutter up a module more than frivolous dogmatic comments.
-> Nothing can be quite so damaging as an old crufty comment that propagates lies and misinformation.
+\
+\
+\
+\
+\
+> Nothing can be quite so helpful as a well-placed comment.\
+> Nothing can clutter up a module more than frivolous dogmatic comments.\
+> Nothing can be quite so damaging as an old crufty comment that propagates lies and misinformation.\
 >                                                                     - Robert C. Martin: Clean Code
