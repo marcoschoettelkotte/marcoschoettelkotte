@@ -1,5 +1,3 @@
-Computer science differs from physics in that is not actually a science. It does not study natural objects. Neither is it mathematics; although it does use mathematical reasoning pretty extensively.
-
 # **About Me**
 
 >My name is __Marco Schöttelkotte__ and I am studying computer science at the Westphalian university in Bocholt.\
@@ -21,3 +19,10 @@ Computer science differs from physics in that is not actually a science. It does
 >  - React / React Native (JS/TS)
 >  - Net Core Asp (C#)
 >  - FastAPI (Python)
+
+
+
+> Nothing can be quite so helpful as a well-placed comment.
+> Nothing can clutter up a module more than frivolous dogmatic comments.
+> Nothing can be quite so damaging as an old crufty comment that propagates lies and misinformation.
+>                                                                     - Robert C. Martin: Clean Code
