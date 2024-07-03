@@ -1,7 +1,5 @@
-# **About Me**
+## About Me
+My name is Marco Schöttelkotte and I am studying Computer Science at the Westphalian University of Applied Sciences in Bocholt. I am 21 years old.
 
->My name is __Marco Schöttelkotte__ and I am studying computer science at the Westphalian university in Bocholt.\
->I am 21 Years old.
-
-
+## My Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,php,python,typescript,angular,dotnet,flutter,html,sass,firebase,vite,materialui&theme=dark&perline=15)](https://skillicons.dev)
